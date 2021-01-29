@@ -1,0 +1,32 @@
+
+
+******************************
+Date:24/01/21 18:28:27
+******************************
+Name : Eren Yeager
+Order No : 3
+Items  : ----------------->
+Item Name : lameburger
+Quantity : 2
+Price : 12.5
+Item Name : zeke kebab
+Quantity : 4
+Price : 50.25
+***************************
+Order Total = $226.0
+
+
+******************************
+Date:24/01/21 18:28:59
+******************************
+Name : Eren Yeager
+Order No : 4
+Items  : ----------------->
+Item Name : titans salad
+Quantity : 2
+Price : 19.5
+Item Name : zeke kebab
+Quantity : 3
+Price : 50.25
+***************************
+Order Total = $189.75

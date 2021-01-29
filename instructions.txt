@@ -1,0 +1,4 @@
+Made by Aahan Singh Charak
+Instructions to run the programme currently:
+
+1> Replace the value in save_path variable in restaurant.py to the absolute path to the restaurant.py file in order to avoid path conflicts

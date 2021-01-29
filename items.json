@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "name": "lameburger",
+            "price": 12.5,
+            "times_ordered": 23,
+            "id": 1
+        },
+        {
+            "name": "titans salad",
+            "price": 19.5,
+            "times_ordered": 8,
+            "id": 2
+        },
+        {
+            "name": "zeke kebab",
+            "price": 50.25,
+            "times_ordered": 19,
+            "id": 3
+        },
+        {
+            "name": "choco-deluxe ice-cream",
+            "price": 12.75,
+            "times_ordered": 0,
+            "id": 4
+        },
+        {
+            "name": "choco volcano cake",
+            "price": 50.75,
+            "times_ordered": 0,
+            "id": 5
+        },
+        {
+            "name": "pizza fatale",
+            "price": 200.54,
+            "times_ordered": 0,
+            "id": 6
+        }
+    ]
+}

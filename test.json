@@ -1,0 +1,37 @@
+{
+  "customer": [
+    {
+      "name": "Aahan Singh",
+      "mobile_number": 9796671282,
+      "orderHistory": [
+        {
+          "order_no": 1,
+          "items": [{ "name": "hamburger", "price": 12.5, "qty": 3 }],
+          "order_total": 37.5
+        }
+      ]
+    },
+    {
+      "name": "Eren Yeager",
+      "mobile_number": 9796671284,
+      "orderHistory": [
+        {
+          "order_no": 1,
+          "items": [{ "name": "titans salad", "price": 19.5, "qty": 1 }],
+          "order_total": 19.5
+        }
+      ]
+    },
+    {
+      "name": "Levi Ackerman",
+      "mobile_number": 9796671285,
+      "orderHistory": [
+        {
+          "order_no": 1,
+          "items": [{ "name": "zeke kebab", "price": 50.25, "qty": 1 }],
+          "order_total": 50.25
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+
+
+******************************
+Date:24/01/21 20:44:11
+******************************
+Name : Slade Wilson
+Order No : 1
+Items  : ----------------->
+Item Name : lameburger
+Quantity : 12
+Price : 12.5
+Item Name : titans salad
+Quantity : 5
+Price : 19.5
+***************************
+Order Total = $247.5

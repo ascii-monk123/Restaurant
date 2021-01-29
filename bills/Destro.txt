@@ -1,0 +1,16 @@
+
+
+******************************
+Date:24/01/21 18:55:55
+******************************
+Name : Destro
+Order No : 1
+Items  : ----------------->
+Item Name : lameburger
+Quantity : 2
+Price : 12.5
+Item Name : zeke kebab
+Quantity : 5
+Price : 50.25
+***************************
+Order Total = $276.25

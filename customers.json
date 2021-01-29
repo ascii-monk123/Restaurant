@@ -1,0 +1,147 @@
+{
+  "customer": [
+    {
+      "name": "Aahan Singh",
+      "mobile_number": 9796671282,
+      "orderHistory": [
+        {
+          "order_no": 1,
+          "items": [
+            {
+              "name": "hamburger",
+              "price": 12.5,
+              "qty": 3
+            }
+          ],
+          "order_total": 37.5
+        }
+      ]
+    },
+    {
+      "name": "Eren Yeager",
+      "mobile_number": 9796671284,
+      "orderHistory": [
+        {
+          "order_no": 1,
+          "items": [
+            {
+              "name": "titans salad",
+              "price": 19.5,
+              "qty": 1
+            }
+          ],
+          "order_total": 19.5
+        },
+        {
+          "order_no": 2,
+          "items": [
+            {
+              "name": "hamburger",
+              "price": 12.5,
+              "qty": 2
+            },
+            {
+              "name": "zeke kebab",
+              "price": 50.25,
+              "qty": 5
+            }
+          ],
+          "order_total": 276.25
+        },
+        {
+          "order_no": 3,
+          "items": [
+            {
+              "name": "lameburger",
+              "price": 12.5,
+              "qty": 2
+            },
+            {
+              "name": "zeke kebab",
+              "price": 50.25,
+              "qty": 4
+            }
+          ],
+          "order_total": 226.0
+        },
+        {
+          "order_no": 4,
+          "items": [
+            {
+              "name": "titans salad",
+              "price": 19.5,
+              "qty": 2
+            },
+            {
+              "name": "zeke kebab",
+              "price": 50.25,
+              "qty": 3
+            }
+          ],
+          "order_total": 189.75
+        }
+      ]
+    },
+    {
+      "name": "Levi Ackerman",
+      "mobile_number": 9796671285,
+      "orderHistory": [
+        {
+          "order_no": 1,
+          "items": [
+            {
+              "name": "zeke kebab",
+              "price": 50.25,
+              "qty": 1
+            }
+          ],
+          "order_total": 50.25
+        }
+      ]
+    },
+    {
+      "name": "Destro",
+      "mobile_number": 9796624816,
+      "orderHistory": [
+        {
+          "order_no": 1,
+          "items": [
+            {
+              "name": "lameburger",
+              "price": 12.5,
+              "qty": 2
+            },
+            {
+              "name": "zeke kebab",
+              "price": 50.25,
+              "qty": 5
+            }
+          ],
+          "order_total": 276.25
+        }
+      ]
+    },
+    {
+      "name": "Slade Wilson",
+      "mobile_number": 9796624818,
+      "orderHistory": [
+        {
+          "order_no": 1,
+          "items": [
+            {
+              "name": "lameburger",
+              "price": 12.5,
+              "qty": 12
+            },
+            {
+              "name": "titans salad",
+              "price": 19.5,
+              "qty": 5
+            }
+          ],
+          "order_total": 247.5
+        }
+      ]
+    }
+  ]
+}
